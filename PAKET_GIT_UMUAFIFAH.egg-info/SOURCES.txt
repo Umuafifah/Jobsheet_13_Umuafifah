@@ -1,0 +1,8 @@
+setup.py
+PAKET_GIT_UMUAFIFAH.egg-info/PKG-INFO
+PAKET_GIT_UMUAFIFAH.egg-info/SOURCES.txt
+PAKET_GIT_UMUAFIFAH.egg-info/dependency_links.txt
+PAKET_GIT_UMUAFIFAH.egg-info/top_level.txt
+paket_git_umuafifah/__init__.py
+paket_git_umuafifah/guess_number.py
+paket_git_umuafifah/weight_conversion.py
